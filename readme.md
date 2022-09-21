@@ -9,6 +9,9 @@
     Un apasionado desarrollador de Argentina 💙
   </p>
 </h2>
+
+<br />
+
 <h3>
   :hammer_and_wrench: Lenguajes y herramientas
 </h3>
@@ -120,6 +123,8 @@
   :fire: Estadisticas
 </h3>
 
+<br />
+
 <p align="center">
   <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs?username=kerpsmaximiliano&show_icons=true&locale=en&layout=compact" alt="kerpsmaximiliano" />
 </p>
@@ -133,6 +138,8 @@
 <h3>
   :eyes: Visitantes
 </h3>
+
+<br />
 
 <p align="center">
   <img align="center" src="https://profile-counter.glitch.me/{KerpsMaximiliano}/count.svg" alt="KerpsMaximiliano :: Visitor's Count" />
