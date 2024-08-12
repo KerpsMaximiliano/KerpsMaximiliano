@@ -11,9 +11,3 @@
 </h2>
 
 <br />
-
-<h3>
-  :hammer_and_wrench: Lenguajes y herramientas
-</h3>
-
-<br />
